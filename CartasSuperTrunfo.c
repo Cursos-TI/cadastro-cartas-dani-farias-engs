@@ -23,7 +23,11 @@ int main() {
   float pib2;
   int pontos turisticos2;
 
-  // Área para entrada de dados
+  // Leitura da Carta 1
+  printf("A:");
+  scanf("%c", &estado1);
+  
+  
 
   // Área para exibição dos dados da cidade
 
